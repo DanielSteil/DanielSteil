@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi, my name is Daniel Steil!
+---
 
-<!--
-**DanielSteil/DanielSteil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Skills
 
-Here are some ideas to get you started:
+<code><img height="32" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" alt="Java"/></code>
+<code><img height="32" src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo-500x313.png" alt="Pyhton"/></code>
+<code><img height="32" src="https://www.inovex.de/wp-content/uploads/2021/04/training-spring-boot.png" alt="Spring Boot"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167866.png" alt="Kafka"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo-500x313.png" alt="Redis"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
