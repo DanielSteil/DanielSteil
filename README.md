@@ -2,7 +2,6 @@
 ---
 ## 🚀 My Skills
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![Java](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png)
 ![Pyhton](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apachekafka)
