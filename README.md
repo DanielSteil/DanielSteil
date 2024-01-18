@@ -1,7 +1,7 @@
 ## Hi, my name is Daniel Steil!
 ---
 ## 🚀 My Skills
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Pyhton](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=apachekafka)
