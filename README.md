@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Steil</h1>
 <h3 align="center">Back-end Developer</h3>
 
-- 🔭 I’m currently working on **Ottimizza**
+- 🔭 I’m currently working on **TOTVS**
 
 - 🌱 I’m currently learning **Micro-Services**
 
