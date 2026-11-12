@@ -58,6 +58,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Pelev](https://github.com/SEU_USUARIO/pelev) | Platform that brings nutritionists and personal trainers together to collaborate on their clients' care | Quarkus, MongoDB |
+| [Pelev]([https://github.com/SEU_USUARIO/pelev](https://pelev.com.br/)) | Platform that brings nutritionists and personal trainers together to collaborate on their clients' care | Quarkus, MongoDB |
 
 ---
